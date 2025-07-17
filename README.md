@@ -148,7 +148,6 @@ geofm/
 - Input: Variable-length sequences (up to 24 timesteps, 14 features)
 - Foundation: Pre-trained PRESTO transformer with attention pooling
 - Output: Multi-class probabilities for 3 crop types
-- Model size: ~200-500MB trained classifier
 
 ## Key Files and Outputs
 
