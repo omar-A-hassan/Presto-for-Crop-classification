@@ -1,0 +1,26 @@
+{
+  "test_accuracy": 99.86648865153538,
+  "test_log_loss": 0.017204572639340898,
+  "confusion_matrix": [
+    [
+      67,
+      1,
+      0
+    ],
+    [
+      0,
+      258,
+      0
+    ],
+    [
+      0,
+      0,
+      423
+    ]
+  ],
+  "class_names": [
+    "cacao",
+    "oil_palm",
+    "rubber"
+  ]
+}

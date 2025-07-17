@@ -1,0 +1,8 @@
+{
+  "dataset_name": "cacao",
+  "batch_idx": 14,
+  "total_batches": 14,
+  "timestamp": "2025-07-17T17:23:21.407022",
+  "total_samples": 3743,
+  "failed_batches": 0
+}
