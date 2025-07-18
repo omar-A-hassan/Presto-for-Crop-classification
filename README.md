@@ -164,15 +164,3 @@ geofm/
 - `results/evaluations/evaluation_results.json` - Detailed model metrics
 - `logs/tensorboard/` - Training visualization and monitoring
 
-## Configuration
-
-The system uses environment variables for sensitive configuration:
-
-```bash
-# Google Earth Engine authentication
-export GEE_SERVICE_ACCOUNT="your-service-account@project.iam.gserviceaccount.com"
-export GEE_PROJECT_ID="your-gcp-project-id"
-export GEE_KEY_FILE="path/to/service-account-key.json"
-```
-
-Configuration files use relative paths and are located in `src/utils/config.py` with fallback defaults for all settings.
